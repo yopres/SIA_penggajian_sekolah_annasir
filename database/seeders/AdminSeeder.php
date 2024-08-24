@@ -20,7 +20,7 @@ class AdminSeeder extends Seeder
             'name' => 'Admin',  //Nama Admin
             'email' => 'admin@gmail.com',
             'role' => 'admin', //Untuk seeder diwajibkan role Admin
-            'password' => Hash::make('password'), //Masukan password admin, ubah kata password dengan kata yg lain
+            'password' => Hash::make('admin123'), //Masukan password admin, ubah kata password dengan kata yg lain
             'created_at' => now(),
             'updated_at' => now(),
 
