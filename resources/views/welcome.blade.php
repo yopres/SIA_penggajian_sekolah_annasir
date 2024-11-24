@@ -77,7 +77,7 @@
 
             </div>
 
-            <p class="text-center text-white">{{ config('app.nama_sekolah', 'Laravel') }}<br />
+            <p class="text-center text-white">{{ config('app.nama_garintiman', 'Laravel') }}<br />
 
             </p>
             <div class="welcome-links">

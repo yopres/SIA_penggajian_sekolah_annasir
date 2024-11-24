@@ -198,7 +198,7 @@
                             </div>
                         </div>
                     </form> --}}
-                    <b>{{ config('app.nama_sekolah', 'Laravel') }}</b>
+                    <b>{{ config('app.nama_garintiman', 'Laravel') }}</b>
 
 
                     <!-- Topbar Navbar -->
@@ -411,7 +411,7 @@
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
                         <span>Copyright &copy; {{ config('app.name', 'Laravel') }} |
-                            {{ config('app.nama_sekolah', 'Laravel') }}</span>
+                            {{ config('app.nama_garintiman', 'Laravel') }}</span>
                     </div>
                 </div>
             </footer>
